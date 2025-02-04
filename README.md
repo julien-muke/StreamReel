@@ -64,8 +64,8 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/JavaScript-Mastery-Pro/moodflix.git
-cd moodflix
+git clone https://github.com/julien-muke/StreamReel.git
+cd StreamReel
 ```
 
 **Installation**
@@ -274,13 +274,3 @@ Open [http://localhost:5173](http://localhost:5173) in your browser to view the 
 
 Public assets used in the project can be found [here](https://drive.google.com/file/d/1v_r4sFD8Veuj3TBEbNUjWdzLn-upaqwt/view)
 
-## <a name="more">🚀 More</a>
-
-**Advance your skills with Next.js Pro Course**
-
-Enjoyed creating this project? Dive deeper into our PRO courses for a richer learning adventure. They're packed with
-detailed explanations, cool features, and exercises to boost your skills. Give it a go!
-
-<a href="https://jsmastery.pro/next15" target="_blank">
-   <img src="https://github.com/user-attachments/assets/b8760e69-1f81-4a71-9108-ceeb1de36741" alt="Project Banner">
-</a>
